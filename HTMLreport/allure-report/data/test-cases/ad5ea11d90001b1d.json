@@ -1,0 +1,71 @@
+{
+  "uid" : "ad5ea11d90001b1d",
+  "name" : "test_other_user",
+  "fullName" : "TestCases.test_CreateUser#test_other_user",
+  "historyId" : "050ad0ecee03d673c07c4f88a66f0795",
+  "time" : {
+    "start" : 1587920041355,
+    "stop" : 1587920042588,
+    "duration" : 1233
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1587920041354,
+      "stop" : 1587920041355,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "sanity"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "test_CreateUser"
+  }, {
+    "name" : "host",
+    "value" : "nareshs-MacBook-Air.local"
+  }, {
+    "name" : "thread",
+    "value" : "11560-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.test_CreateUser"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "sanity" ]
+  },
+  "source" : "ad5ea11d90001b1d.json",
+  "parameterValues" : [ ]
+}

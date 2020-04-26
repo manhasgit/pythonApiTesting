@@ -1,0 +1,39 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "TypeError: 'bool' object is not subscriptable",
+      "children" : [ {
+        "name" : "test_get_student_details",
+        "uid" : "fd6585078b22dcf5",
+        "parentUid" : "c592040e2306d463e6685639a7b719af",
+        "status" : "broken",
+        "time" : {
+          "start" : 1587920040002,
+          "stop" : 1587920040034,
+          "duration" : 32
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_oauth_details",
+        "uid" : "c2f0f503934c7a5a",
+        "parentUid" : "c592040e2306d463e6685639a7b719af",
+        "status" : "broken",
+        "time" : {
+          "start" : 1587920044609,
+          "stop" : 1587920044676,
+          "duration" : 67
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c592040e2306d463e6685639a7b719af"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}
