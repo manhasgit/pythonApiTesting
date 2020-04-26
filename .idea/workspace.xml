@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bded919-a34d-4b9f-bbcb-488b7196a662" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BatchFile/AllLibrary.sh" beforeDir="false" afterPath="$PROJECT_DIR$/BatchFile/AllLibrary.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/0f91462e-5ee1-4ed8-99bb-926d04e2bf62-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/1c3e88a2-1d28-4664-9d0b-b03d8ed9129c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/20f46139-54d4-4c60-b6c2-ce2a64f31611-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/22460dc7-4c5a-46c3-93d8-27cec114b798-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/22d0dd73-d170-4792-bc50-dc18371c52d8-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/285046c6-06cf-4b4d-9976-8838e20dd04b-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/2cbdec62-7d35-4b85-8899-73ad9c45dcec-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/4015ac71-e824-4646-bbe8-84e2b19224e4-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/4a0d193a-8e60-4ee3-a0f4-37cb70e79f46-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/6b89ce5e-b2f9-4afe-8ec8-4b26baf028cd-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/6edcbb95-9f56-4d04-957c-e1fd7d76c3ee-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/906290be-72c8-43f5-a820-063548c2483d-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/97bb8cc9-0a84-4484-a03a-42f564a742d9-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/9c9cc55c-92aa-4f36-9168-a4eaf823f246-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/a7d083f0-a91a-46fd-ab76-2c22db2d1234-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/c7738e88-dea5-43ea-9c8c-d198df3d7530-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/d5633241-c97e-4f2f-81a2-ae86e4119b39-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/d75441a9-79c0-477d-b00a-786f165b4622-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/d9cc70cf-4f62-4404-98df-4b2e37605a4b-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/db620797-9813-4fec-9fc6-8f846610733b-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/dc8cd815-2fcc-4599-9a41-421108802891-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/eb6782f0-c547-40e9-901e-01d9bc961f54-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/edab6f78-742a-450d-99d9-e56d10a0fce8-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/f6bed19d-15c0-421d-897a-5b6740f34e0a-container.json" beforeDir="false" />
-    </list>
+    <list default="true" id="3bded919-a34d-4b9f-bbcb-488b7196a662" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -342,6 +315,14 @@
       <option name="presentableId" value="Default" />
       <updated>1587755293639</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated">
+      <created>1587932589257</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587932589257</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -370,6 +351,10 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Get_Request/FetchUserData.py">
